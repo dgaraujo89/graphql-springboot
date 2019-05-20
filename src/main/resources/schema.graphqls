@@ -16,6 +16,7 @@ type Author {
  
 type Query {
     listPosts: [Post]!
+    authorById(id: Int): Author
 }
  
 # The Root Mutation for the application
