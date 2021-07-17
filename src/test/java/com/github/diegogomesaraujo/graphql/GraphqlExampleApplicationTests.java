@@ -11,6 +11,7 @@ public class GraphqlExampleApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		
 	}
 
 }
