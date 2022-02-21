@@ -1,1 +1,1 @@
-# graphql-springboot
+# graphql-springboot example
