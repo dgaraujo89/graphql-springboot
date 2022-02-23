@@ -8,4 +8,4 @@ EXPOSE 8080
 
 CMD java -jar application.jar
 
-ENTRYPOINT [ "/bin/bash" ]
+ENTRYPOINT [ "/bin/sh" ]
